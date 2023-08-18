@@ -1,20 +1,31 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right">
 
 <p align="left"> 
-  Eu sou o Gustavo, programador das áreas de<strong>Ciência da computação e bioinformática</strong>.<br>
-  Atualmente estudante de Informática Biomédica na UFPR.
+  Eu sou o Gustavo Benitez Frehse :), programador das áreas de<strong> Ciência da computação e bioinformática</strong>.<br>
+    
+  Atualmente estudante de **Informática Biomédica** na UFPR.
+  
+  Além de um ótimo ouvinte de Rap: [Playlist do Spotify](https://open.spotify.com/playlist/5G1rvCjWzVe1oRnfphVEsS?si=92fe5bb8aad94072)
+</p>
+
+***
+
+<p align="left">
+    
+  🐑 Linguagens: **C, JavaScript, Nuxt, Vue.**
+  
 </p>
 
 <p align="left">
-  🦄 Linguagens: **C, JavaScript, Nuxt, Vue.**
+    
+  ☕ Ferramentas: **Figma, Pifepy, VSCode.**
+  
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Figma, Pifepy, VSCode.**
-</p>
-
-<p align="left">
-  💌 E fiquem a vontade para entrar em contato comigo por: ⤵️
+    
+  ✉️ E fiquem a vontade para entrar em **contato comigo** por: ⤵
+  
 </p>
 
 <p align="left">
@@ -28,20 +39,14 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustfrehse/"/></a>
 </p>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="170px" width="170px" alt="Ecomp" src="https://media.licdn.com/dms/image/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/0/1657585171137?e=2147483647&v=beta&t=W_HaSuUsGZNfW0ejGZl6sTLZqky4MTCpYvMtCgaCzB4"/>](https://ecomp.co/)
 
----
+***
 
-<p align="center">
-**Frot-end Developer (Jr)** \
+**Front-end Developer (Jr)** \
 [**Ecomp**](https://ecomp.co/) • Voluntariado \
 Linguagens & Tecnologias: `JavaScript`, `Vue2`, `Nuxt`\
-Projetos em destaque: [Nenhum ainda]()
+Projetos em destaque: [#]()
 <br/>
-</p>
 
----
-
-<p>
-[![card](https://github-readme-stats.vercel.app/api?username=tuildes&theme=Radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+***
