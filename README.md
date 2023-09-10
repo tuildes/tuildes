@@ -45,8 +45,8 @@
 
 **Front-end Developer (Jr)** \
 [**Ecomp**](https://ecomp.co/) • Voluntariado • 2023 até o momento \
-Linguagens & Tecnologias: `JavaScript`, `Vue2`, `Nuxt`\
-Projetos em destaque: [#]()
+Linguagens & Tecnologias: `JavaScript`, `Vue.js`, `Nuxt`, `Vuetify 2` \
+Projetos em destaque: [Juntos Pelo Miguel]()
 <br/>
 
 ***
