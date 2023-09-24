@@ -18,7 +18,7 @@
 
 <p align="left">
     
-  ☕ Ferramentas: **Figma, Pifepy, VSCode e Notion**
+  ☕ Ferramentas: **Figma, Trello, VSCode e Notion**
   
 </p>
 
