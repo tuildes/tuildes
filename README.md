@@ -12,7 +12,7 @@
 
 <p align="left">
     
-  🐑 Linguagens: **C, JavaScript, Nuxt, Vue.**
+  🐑 Linguagens: **C, JavaScript, Vue.js.**
   
 </p>
 
