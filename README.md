@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right">
 
 <p align="left"> 
-  Eu sou o Gustavo Benitez Frehse :), programador das áreas de<strong> Ciência da computação e bioinformática</strong>.<br>
+  Eu sou o <strong style="color: #cf7499">Gustavo Benitez Frehse</strong> :), programador das áreas de<strong> Ciência da computação e bioinformática</strong>.<br>
     
   Atualmente estudante de **Informática Biomédica** na UFPR.
   
