@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am a programmer in the areas of computer science and bioinformatics<br>And currently a student of Biomedical Informatics at UFPR.</p>
+<p align="left">I am a programmer in the areas of <strong>computer science</strong> and <strong>bioinformatics</strong><br>And currently a student of Biomedical Informatics at UFPR.</p>
 
 ###
 
@@ -53,7 +53,7 @@
 <h6 align="left">☕  Historic:</h6>
 
 <a href="https://open.spotify.com/user/aq8nkj7zs2bey71k6fsegdx8e">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=aq8nkj7zs2bey71k6fsegdx8e&count=5&unique=false" alt="Spotify recently played" min-width="355px" max-width="355px" width="355px" align="left"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=aq8nkj7zs2bey71k6fsegdx8e&count=5&unique=false" alt="Spotify recently played" min-width="320px" max-width="320px" width="320px" align="left"  />
 </a>
 
 ###
