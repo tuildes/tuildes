@@ -52,10 +52,6 @@
 
 <h6 align="left">☕  Historic:</h6>
 
-<a href="https://open.spotify.com/user/aq8nkj7zs2bey71k6fsegdx8e">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=aq8nkj7zs2bey71k6fsegdx8e&count=5&unique=false" alt="Spotify recently played" min-width="320px" max-width="320px" width="320px" align="left"  />
-</a>
-
 ###
 
 [<img align="left" height="160px" width="160px" alt="Ecomp" src="https://media.licdn.com/dms/image/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/0/1657585171137?e=2147483647&v=beta&t=W_HaSuUsGZNfW0ejGZl6sTLZqky4MTCpYvMtCgaCzB4"/>](https://ecomp.co/)
@@ -70,8 +66,10 @@ Projetos em destaque: [Juntos Pelo Miguel](), [JR Consultoria]()
 
 ***
 
-<h6> ☕ Other perhaps interesting links: </h6>
+<br/>
 
-  **[My Steam profile](https://steamcommunity.com/id/tuildes/)** \
-  **[My Spotify profile](https://open.spotify.com/user/aq8nkj7zs2bey71k6fsegdx8e?si=1f0e1560100e4b31)** \
-  **[My Linkedin profile](https://www.linkedin.com/in/gfrehse/)**
+<div align="center">
+  <a href="https://open.spotify.com/user/aq8nkj7zs2bey71k6fsegdx8e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aq8nkj7zs2bey71k6fsegdx8e&count=5&unique=false" alt="Spotify recently played" />
+  </a>
+</div>
