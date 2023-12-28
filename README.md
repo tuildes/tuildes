@@ -1,43 +1,62 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
-<p align="left"> 
-  Eu sou o <strong style="color: #cf7499;">Gustavo Benitez Frehse</strong> :), programador das áreas de<strong> Ciência da computação e bioinformática</strong>.<br>
-    
-  Atualmente estudante de **Informática Biomédica** na UFPR.
-  
-  Além de um ótimo ouvinte de Rap: [Playlist do Spotify](https://open.spotify.com/playlist/5G1rvCjWzVe1oRnfphVEsS?si=92fe5bb8aad94072)
-</p>
+<h3 align="left">🐇 Hi, my name is tuildes :)</h3>
 
-***
+###
 
-<p align="left">
-    
-  🐑 Linguagens: **C, JavaScript, Vue.js.**
-  
-</p>
+<p align="left">I am a programmer in the areas of computer science and bioinformatics<br>And currently a student of Biomedical Informatics at UFPR.</p>
 
-<p align="left">
-    
-  ☕ Ferramentas: **Figma, Trello, VSCode e Notion**
-  
-</p>
+###
 
-<p align="left">
-    
-  ✉️ E fiquem a vontade para entrar em **contato comigo** por: ⤵
-  
-</p>
+<h6 align="left">☕  Main languages & technologies:</h6>
 
-<p align="left">
-  <a href="mailto:frehsegustavo@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:frehsegustavo@gmail.com" /></a>
+###
 
-  <a href="https://www.linkedin.com/in/gfrehse/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gfrehse/" /></a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vuetify/1867C0" height="40" alt="vuetify logo"  />
+</div>
 
-  <a href="https://www.instagram.com/gustfrehse/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustfrehse/"/></a>
-</p>
+###
+
+<h6 align="left">☕  Main tools:</h6>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+</div>
+
+<h6 align="left">☕  Historic:</h6>
+
+<a href="https://open.spotify.com/user/aq8nkj7zs2bey71k6fsegdx8e">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=aq8nkj7zs2bey71k6fsegdx8e&count=5&unique=false" alt="Spotify recently played" min-width="355px" max-width="355px" width="355px" align="left"  />
+</a>
+
+###
 
 [<img align="left" height="160px" width="160px" alt="Ecomp" src="https://media.licdn.com/dms/image/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/0/1657585171137?e=2147483647&v=beta&t=W_HaSuUsGZNfW0ejGZl6sTLZqky4MTCpYvMtCgaCzB4"/>](https://ecomp.co/)
 
@@ -45,8 +64,14 @@
 
 **Front-end Developer (Jr)** \
 [**Ecomp**](https://ecomp.co/) • Voluntariado • 2023 até o momento \
-Linguagens & Tecnologias: `JavaScript`, `Vue.js 2`, `Nuxt`, `Vuetify` \
+Linguagens & Tecnologias: `JS`, `Vue 2`, `Nuxt`, `Vuetify` \
 Projetos em destaque: [Juntos Pelo Miguel](), [JR Consultoria]()
 <br/>
 
 ***
+
+<h6> ☕ Other perhaps interesting links: </h6>
+
+  **[My Steam profile](https://steamcommunity.com/id/tuildes/)** \
+  **[My Spotify profile](https://open.spotify.com/user/aq8nkj7zs2bey71k6fsegdx8e?si=1f0e1560100e4b31)** \
+  **[My Linkedin profile](https://www.linkedin.com/in/gfrehse/)**
