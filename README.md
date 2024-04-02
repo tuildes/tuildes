@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-<h6 align="left">☕  Historic:</h6>
+<h6 align="left">🚀  Historic:</h6>
 
 ###
 
@@ -59,17 +59,33 @@
 ***
 
 **Front-end Developer (Jr)** \
-[**Ecomp**](https://ecomp.co/) • Voluntariado • 2023 até o momento \
-Linguagens & Tecnologias: `JS`, `Vue 2`, `Nuxt`, `Vuetify` \
+[**Ecomp**](https://ecomp.co/) • Voluntariado • Diretor de Projetos • 2023 & 2024 \
+Linguagens & Tecnologias: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
 Projetos em destaque: [Juntos Pelo Miguel](), [JR Consultoria]()
 <br/>
 
 ***
 
+<!--
+
+[<img align="left" height="160px" width="160px" alt="Ecomp" src="https://media.licdn.com/dms/image/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/0/1657585171137?e=2147483647&v=beta&t=W_HaSuUsGZNfW0ejGZl6sTLZqky4MTCpYvMtCgaCzB4"/>](https://ecomp.co/)
+
+***
+
+**Front-end Developer (Jr)** \
+[**Ecomp**](https://ecomp.co/) • Voluntariado • Diretor de Projetos • 2023 & 2024 \
+Linguagens & Tecnologias: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
+Projetos em destaque: [Juntos Pelo Miguel](), [JR Consultoria]()
+<br/>
+
+***
+
+-->
+
 <br/>
 
 <div align="center">
   <a href="https://open.spotify.com/user/aq8nkj7zs2bey71k6fsegdx8e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aq8nkj7zs2bey71k6fsegdx8e&count=5&unique=false" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aq8nkj7zs2bey71k6fsegdx8e&count=5&unique=false" alt="Spotify recently played" width="100%" />
   </a>
 </div>
