@@ -61,7 +61,7 @@
 **Front-end Developer (Jr)** \
 [**Ecomp**](https://ecomp.co/) • Voluntariado • Diretor de Projetos • 2023 & 2024 \
 Linguagens & Tecnologias: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
-Projetos em destaque: [Juntos Pelo Miguel](), [JR Consultoria](), [Site da Ecomp](), [Nostrosole](), [Coinov]()
+Projetos em destaque: [Juntos Pelo Miguel](), [JR Consultoria](), [Site da Ecomp]()
 <br/>
 
 ***
