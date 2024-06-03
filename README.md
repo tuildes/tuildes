@@ -11,7 +11,7 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 <h6 align="left">☕ Main languages ​​and tools:</h6>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,vscode,md,notion,github,linux,vim,git&theme=dark&perline=8" alt="Css, HTML, JavaScript, Nuxt, Vue, Photoshop and Postman logos"  />
+  <img src="https://skillicons.dev/icons?i=c,vscode,md,notion,github,linux,vim,git&theme=dark&perline=4" alt="Css, HTML, JavaScript, Nuxt, Vue, Photoshop and Postman logos"  />
 </div>
 
 ###
