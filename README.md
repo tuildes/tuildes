@@ -18,7 +18,7 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 
 <h6 align="left">🎵 Spotify:</h4>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aq8nkj7zs2bey71k6fsegdx8e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=141414&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aq8nkj7zs2bey71k6fsegdx8e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <details>
   <summary>🐛 Languages ​​and tools already used</summary>
