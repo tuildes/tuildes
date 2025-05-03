@@ -33,6 +33,17 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 
 <h6 align="left">🚀  Historic:</h6>
 
+[<img align="left" height="160px" width="160px" alt="Apple Developer Academy" src="https://media.licdn.com/dms/image/v2/D4D0BAQF_8YdUx_2eTQ/company-logo_200_200/B4DZUfIrf.HYAI-/0/1739984124759/apple_developer_academy_pucpr_logo?e=2147483647&v=beta&t=AVuF6C17EbFNSZKhB6nAIHxQMZfdYS1fu5-wr8_qG2k"/>]([https://ecomp.co/](https://developeracademy.pucpr.br/))
+
+***
+
+**iOS Developer Trainee** \
+[**Apple Developer Academy | PUCPR**](https://developeracademy.pucpr.br/) • Volunteering • Projects director • 2025 & 2026 \
+Languages: `swift`, `swiftUI` \
+Featured projects: T.B.A.
+
+***
+
 ###
 
 [<img align="left" height="160px" width="160px" alt="Ecomp" src="https://media.licdn.com/dms/image/C4E0BAQH52NBaBJ3Chw/company-logo_200_200/0/1657585171137?e=2147483647&v=beta&t=W_HaSuUsGZNfW0ejGZl6sTLZqky4MTCpYvMtCgaCzB4"/>](https://ecomp.co/)
@@ -40,9 +51,9 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 ***
 
 **Front-end Developer (Jr)** \
-[**Ecomp**](https://ecomp.co/) • Volunteering • Projects director • 2023 & 2024 \
+[**Ecomp**](https://ecomp.co/) • Apprenticeship  • 2023 & 2024 \
 Languages: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
-Featured projects: [Juntos Pelo Miguel](https://miguellorenzo.org/), [JR Consultoria](http://jrconsultoria.com.br/), [Site da Ecomp](https://ecomp.co/)
+Featured projects: [Juntos Pelo Miguel](https://miguellorenzo.org/) and [JR Consultoria](http://jrconsultoria.com.br/)
 
 ###
 
