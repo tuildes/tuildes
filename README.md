@@ -38,7 +38,7 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 ***
 
 **iOS Developer Trainee** \
-[**Apple Developer Academy | PUCPR**](https://developeracademy.pucpr.br/) • Volunteering • Projects director • 2025 & 2026 \
+[**Apple Developer Academy | PUCPR**](https://developeracademy.pucpr.br/)• Apprenticeship • 2025 & 2026 \
 Languages: `swift`, `swiftUI` \
 Featured projects: T.B.A.
 
@@ -51,7 +51,7 @@ Featured projects: T.B.A.
 ***
 
 **Front-end Developer (Jr)** \
-[**Ecomp**](https://ecomp.co/) • Apprenticeship  • 2023 & 2024 \
+[**Ecomp**](https://ecomp.co/) • Volunteering • Projects director  • 2023 & 2024 \
 Languages: `JavaScript`, `Vue`, `Nuxt`, `Vuetify` \
 Featured projects: [Juntos Pelo Miguel](https://miguellorenzo.org/) and [JR Consultoria](http://jrconsultoria.com.br/)
 
