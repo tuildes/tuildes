@@ -25,4 +25,4 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 
 <br />
 
-[^1]: Graduation in **Biomedical Informatics** (IBM - Informática Biomédica) at the Federal University of Paraná since 2023, the course consists of a computer science matrix with subjects focused on biomedical areas and applications of computing in medical areas, such as genetics. UFPR is one of the only three colleges that offer this course in Brazil.
+[^1]: Graduation in **Biomedical Informatics** (IBM - Informática Biomédica) at the Federal University of Paraná since 2023, the course consists of a computer science matrix with subjects focused on biomedical areas and applications of computing in medical areas, such as genetics.
