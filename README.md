@@ -19,7 +19,7 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 [<img align="left" height="100px" width="100px" alt="Apple Developer Academy" src="https://media.licdn.com/dms/image/v2/D4D0BAQF_8YdUx_2eTQ/company-logo_200_200/B4DZUfIrf.HYAI-/0/1739984124759/apple_developer_academy_pucpr_logo?e=2147483647&v=beta&t=AVuF6C17EbFNSZKhB6nAIHxQMZfdYS1fu5-wr8_qG2k"/>]([https://ecomp.co/](https://developeracademy.pucpr.br/))
 
 **iOS Developer Trainee** \
-[**Apple Developer Academy | PUCPR**](https://developeracademy.pucpr.br/)• Apprenticeship • 2025 & 2026 \
+[**Apple Developer Academy | PUCPR**](https://developeracademy.pucpr.br/) • Apprenticeship • 2025 & 2026 \
 **Languages**: `swift`, `swiftUI`, `UIKIT` \
 **Latest Project**: [PITADA](https://apps.apple.com/ph/app/pitada/id6747889796?uo=2)
 
