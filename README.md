@@ -21,7 +21,7 @@ And currently a student of Biomedical Informatics at UFPR. [^1]
 **iOS Developer Trainee** \
 [**Apple Developer Academy | PUCPR**](https://developeracademy.pucpr.br/) • Apprenticeship • 2025 & 2026 \
 **Languages**: `swift`, `swiftUI`, `UIKIT` \
-**Latest Project**: [PITADA](https://apps.apple.com/ph/app/pitada/id6747889796?uo=2)
+**Latest Publish**: [PITADA](https://apps.apple.com/ph/app/pitada/id6747889796?uo=2)
 
 <br />
 
