@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h3 align="left">🐇 Hi, my name is tuildes :)</h3>
+<h3 align="left">Hi, i`m tuildes</h3>
 
-I am a programmer in the areas of **computer science** and **bioinformatics**
+I am a programmer in the areas of **computer science** and **iOS development**
 <br />
 And currently a student of Biomedical Informatics at UFPR. [^1]
 
