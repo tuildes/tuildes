@@ -14,9 +14,9 @@ Currently a student of **Biomedical Informatics** at UFPR.
 <img alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 
-### ☕ GitHub Stats
+<!-- ### ☕ GitHub Stats -->
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=tuildes&theme=dark&hide_border=true&background=transparent" />
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=tuildes&theme=dark&hide_border=true&background=transparent" /> -->
 
 ### 🚀 Where am I working
 
