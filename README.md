@@ -1,15 +1,26 @@
-# 👋 Hi, I'm tuildes
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-I'm a developer bridging the gap between **Biomedical Informatics (UFPR)** and **iOS Development (Apple Developer Academy | PUCPR 🍎)**.
+### Hey!
 
-Studying design, cybersecurity, and software development, always trying to create truly impactful solutions.
+👾 I'm **tuildes**.
 
-## 🛠️ Actual Tech Stack
-<div>
-  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img alt="SwiftUI" src="https://img.shields.io/badge/swift%20UI-009ffd?style=for-the-badge&logo=swift&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+🖥️ An **iOS Developer**, studying cybersecurity, design and software development.
+
+💼 iOS Trainee in [Apple Developer Academy](https://developeracademy.pucpr.br/)
+
+⚙️ Using `swift`, `swiftUI`, `C`, `linux` and `macOS`
+
+[![views](https://komarev.com/ghpvc/?username=tuildes&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/tuildes)
+![Stars](https://img.shields.io/github/stars/tuildes?label=Stars&style=flat&color=313131)
+
+<br>
+<br>
+<br>
+<br>
+
+<div align="right">
+
+**~** [ tuildes.dev ](https://www.tuildes.dev/)
+
 </div>
