@@ -14,10 +14,8 @@
 [![views](https://komarev.com/ghpvc/?username=tuildes&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/tuildes)
 ![Stars](https://img.shields.io/github/stars/tuildes?label=Stars&style=flat&color=313131)
 
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
 
 <div align="right">
 
