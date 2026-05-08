@@ -3,7 +3,7 @@
 
 ### Hey!
 
-👾 I'm **tuildes**.
+👾 I'm **tuildes** \o/.
 
 🖥️ An **iOS Developer**, studying cybersecurity, design and software development.
 
