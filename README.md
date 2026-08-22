@@ -9,7 +9,7 @@
 
 💼 iOS Trainee in [Apple Developer Academy](https://developeracademy.pucpr.br/), currently working on a [window manager](https://github.com/PineAppleIncOS)
 
-⚙️ Using `swift`, `swiftUI`, `C`, `linux` and `macOS`
+⚙️ Using `C`, `swift`, `swiftUI`, `AppKit`, `UIKit`, `linux` and `macOS`
 
 [![views](https://komarev.com/ghpvc/?username=tuildes&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/tuildes)
 ![Stars](https://img.shields.io/github/stars/tuildes?label=Stars&style=flat&color=313131)
