@@ -7,7 +7,7 @@
 
 🖥️ An **iOS Developer**, studying cybersecurity, design and software development.
 
-💼 iOS Trainee in [Apple Developer Academy](https://developeracademy.pucpr.br/)
+💼 iOS Trainee in [Apple Developer Academy](https://developeracademy.pucpr.br/), currently working on a [window manager](https://github.com/PineAppleIncOS)
 
 ⚙️ Using `swift`, `swiftUI`, `C`, `linux` and `macOS`
 
