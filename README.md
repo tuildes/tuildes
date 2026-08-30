@@ -1,5 +1,5 @@
-<img align="left" src="dark.gif#gh-dark-mode-only" width=320>
-<img align="left" src="light.gif#gh-light-mode-only" width=320>
+<img align="left" src="dark.gif#gh-dark-mode-only" width=300>
+<img align="left" src="light.gif#gh-light-mode-only" width=300>
 
 ### Hey!
 
