@@ -1,5 +1,5 @@
-<!-- <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only"> -->
-<img align="left" src="image.gif">
+<img align="left" src="dark.gif#gh-dark-mode-only">
+<img align="left" src="light.gif#gh-light-mode-only">
 
 ### Hey!
 
