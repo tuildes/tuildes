@@ -1,5 +1,9 @@
-<img align="left" src="dark.gif#gh-dark-mode-only" width=300>
-<img align="left" src="light.gif#gh-light-mode-only" width=300>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="light.gif">
+  <img alt="" src="light.gif" width="320" align="left">
+</picture>
+
 
 ### Hey!
 
